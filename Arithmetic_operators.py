@@ -2,6 +2,7 @@ a-200
 b=100
 d=90
 c=a+b
+as
 print(c)
 x = 10
 y = 4
