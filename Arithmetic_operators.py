@@ -1,3 +1,7 @@
+a-200
+b=100
+c=a+b
+print(c)
 x = 10
 y = 4
 a='wr'
