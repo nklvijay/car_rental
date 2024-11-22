@@ -1,5 +1,4 @@
-d=300
-e=10
+
 x = 10
 y = 4
 a='wr'
@@ -29,3 +28,5 @@ print('x ** y =',x**y)
 
 print('a:',a,'a_ :',a_,'a__ :',a__,"_a :",_a,)
 print('Added Operations')
+
+print('branch 3 updation')
